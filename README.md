@@ -24,7 +24,7 @@ However, if you use this work, please cite the following two papers with prelimi
 @inproceedings{doerpinghaus2022social,
   title={Social Network Analysis and Co-Occurrence: Identifying the Gaps.},
   author={Jens Dörpinghaus},
-  booktitle={CHAI@ KI},
+  booktitle={Proceedings of the Workshop on Humanities-Centred Artificial Intelligence co-located with 45th German Conference on Artificial Intelligence},
   pages={20-28},
   year={2022}
 }
